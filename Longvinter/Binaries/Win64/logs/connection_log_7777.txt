@@ -405,3 +405,18 @@
 [2022-02-25 15:44:02] [1,35] Connect() starting connection (eNetQOSLevelLow, cm4-hkg1.cm.steampowered.com:27024, WebSocket)
 [2022-02-25 15:44:03] [1,35] ConnectionCompleted() (153.254.86.181:27024, WebSocket) local address (127.0.0.1:61196)
 [2022-02-25 15:44:03] [1,35] RecvMsgClientLogOnResponse() : [A:1:3035665418:19687] 'OK'
+
+
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.211.14.215)
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.211.14.215)
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up (10.211.14.215)
+[2022-02-25 16:53:48] CCMInterface::OnNetworkDeviceStateChange -- Start connecting to Steam
+[2022-02-25 16:53:49] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2404:3fc0:5:101::9b85:ef27]:80 (127.0.0.1:10809)) - FAILURE (Service Unavailable)
+[2022-02-25 16:53:49] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / [2404:3fc0:5:101::9b85:ef27]:27019) - SUCCESS
+[2022-02-25 16:53:51] [0,0] SetSteamID( [A:1:0:0] )
+[2022-02-25 16:53:51] [0,0] Server says 50% of connections should be websockets, we rolled 64 - using UDP as default.
+[2022-02-25 16:53:51] [1,2] Connect() starting connection (eNetQOSLevelMedium, 153.254.86.29:27019, UDP)
+[2022-02-25 16:53:52] [1,2] ConnectionCompleted() (155.133.239.51:27019, UDP) local address (0.0.0.0:7778)
+[2022-02-25 16:53:52] [1,2] RecvMsgClientLogOnResponse() : [A:1:2945081354:19688] 'OK'

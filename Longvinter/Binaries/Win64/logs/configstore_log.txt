@@ -43,3 +43,7 @@
 [2022-02-25 15:43:58] Flushed store 'install' to 'E:\server\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
 [2022-02-25 15:44:03] Flushed store 'install' to 'E:\server\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
 [2022-02-25 15:44:04] Flushed store 'install' to 'E:\server\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
+
+
+[2022-02-25 16:53:47] Loaded store 'install' from 'E:\server\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf' successfully
+[2022-02-25 16:53:53] Flushed store 'install' to 'E:\server\longvinter-windows-server\Longvinter\Binaries\Win64\config\config.vdf'
