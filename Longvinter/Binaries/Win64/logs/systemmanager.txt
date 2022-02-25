@@ -1,0 +1,24 @@
+
+
+[2022-02-25 11:29:38] Inilializing System Manager
+[2022-02-25 11:29:38] Suspend inhibited
+
+
+[2022-02-25 11:34:52] Inilializing System Manager
+[2022-02-25 11:34:52] Suspend inhibited
+
+
+[2022-02-25 11:41:32] Inilializing System Manager
+[2022-02-25 11:41:32] Suspend inhibited
+
+
+[2022-02-25 11:41:56] Inilializing System Manager
+[2022-02-25 11:41:56] Suspend inhibited
+
+
+[2022-02-25 12:20:07] Inilializing System Manager
+[2022-02-25 12:20:07] Suspend inhibited
+
+
+[2022-02-25 12:33:59] Inilializing System Manager
+[2022-02-25 12:33:59] Suspend inhibited
